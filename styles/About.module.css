@@ -1,0 +1,25 @@
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.about h1 span {
+  color: rgb(75, 143, 233);
+}
+
+.about p {
+  font-size: 20px;
+  width: 800px;
+  margin: 20px 0px;
+  line-height: 1.4;
+}
+
+.about p span {
+  font-weight: bold;
+}
+
+.about p a {
+  color: rgb(75, 143, 233);
+}
